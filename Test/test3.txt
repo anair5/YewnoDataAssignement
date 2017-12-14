@@ -1,0 +1,11 @@
+Previous work on this problem has sought to identify mechanisms such as a gravitational
+resonance between the newly formed Moon and the Sun12 or the remnant proto-lunar
+disk13 that can excite the lunar inclination to a level consistent with its current value.
+Among the known multi-planet systems, a significant fraction
+are in mean motion resonances, the majority of which are
+in low-order resonances. The 2:1 resonance is the most common
+(HD73526,HD82943,HD128311,GJ 876), but other configurations
+are observed as well, such as the 3:1 resonance in
+HD75732 or the 5:1 resonance in HD202206. These resonances
+most probably arise from evolutionary processes as migrating
+planets forming in the protoplanetary disc become trapped.
